@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/santodomingorp/static/css/main.3e387987.chunk.css",
+    "main.js": "/santodomingorp/static/js/main.079a6d29.chunk.js",
+    "main.js.map": "/santodomingorp/static/js/main.079a6d29.chunk.js.map",
+    "runtime-main.js": "/santodomingorp/static/js/runtime-main.73c9d21b.js",
+    "runtime-main.js.map": "/santodomingorp/static/js/runtime-main.73c9d21b.js.map",
+    "static/css/2.f2914626.chunk.css": "/santodomingorp/static/css/2.f2914626.chunk.css",
+    "static/js/2.025d41a5.chunk.js": "/santodomingorp/static/js/2.025d41a5.chunk.js",
+    "static/js/2.025d41a5.chunk.js.map": "/santodomingorp/static/js/2.025d41a5.chunk.js.map",
+    "index.html": "/santodomingorp/index.html",
+    "precache-manifest.5e96bf67deae95043f7ae2fb83d3f19a.js": "/santodomingorp/precache-manifest.5e96bf67deae95043f7ae2fb83d3f19a.js",
+    "service-worker.js": "/santodomingorp/service-worker.js",
+    "static/css/2.f2914626.chunk.css.map": "/santodomingorp/static/css/2.f2914626.chunk.css.map",
+    "static/css/main.3e387987.chunk.css.map": "/santodomingorp/static/css/main.3e387987.chunk.css.map",
+    "static/js/2.025d41a5.chunk.js.LICENSE.txt": "/santodomingorp/static/js/2.025d41a5.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/santodomingorp/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/santodomingorp/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c9d21b.js",
+    "static/css/2.f2914626.chunk.css",
+    "static/js/2.025d41a5.chunk.js",
+    "static/css/main.3e387987.chunk.css",
+    "static/js/main.079a6d29.chunk.js"
+  ]
+}
